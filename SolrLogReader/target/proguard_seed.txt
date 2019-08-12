@@ -1,0 +1,7 @@
+SolrLogReader
+SolrLogReader: java.util.regex.Pattern END_DIGITS
+SolrLogReader: java.util.regex.Pattern END_DIGITS2
+SolrLogReader: java.util.regex.Pattern DIGITS
+SolrLogReader: SolrLogReader()
+SolrLogReader: void main(java.lang.String[])
+SolrLogReader: java.util.Map summarize(java.lang.String[])
